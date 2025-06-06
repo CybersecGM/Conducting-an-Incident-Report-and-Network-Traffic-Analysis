@@ -3,7 +3,7 @@
 
 This project simulates a real-world incident response scenario where I acted as a cybersecurity analyst for an IT services company. The task was to diagnose why customers of a client, ***yummyrecipesforme.com***, were unable to access the website and were receiving a "destination port unreachable" error.
 
->Incident Report Network Traffic Analysis Doc: [Cybersecurity incident report network traffic analysis - Gilberth Manrique](https://docs.google.com/document/d/1q-PP6nvaeX5dO_8maAuy-8Ue9NY1RXDeeJ_dJdWbBj0/edit?usp=sharing)
+>DNS & ICMP Traffic Analysis for Incident Response Doc: [Cybersecurity incident report network traffic analysis - Gilberth Manrique](https://docs.google.com/document/d/1q-PP6nvaeX5dO_8maAuy-8Ue9NY1RXDeeJ_dJdWbBj0/edit?usp=sharing)
 
 
 ## Analysis & Findings
